@@ -25,4 +25,7 @@ To run the project, follow these steps:
 
 
 ![DALL·E 2024-01-19 23 12 41 - A screenshot of a console-based parking management system in action  The screen shows a text-based user interface with options for adding a car to a p](https://github.com/bachar157/parking-exercice/assets/71847632/92eb547c-706b-4521-b990-a1adf236b80d)
+
+
+## how it  looks 
 ![Screenshot 2024-01-19 224354](https://github.com/bachar157/parking-exercice/assets/71847632/5554c1be-a252-49ff-9381-24a7976bdd8f)
